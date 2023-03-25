@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+.Hero-Section{
+
+display: flex;
+background-image: url('../../public/discordbg.jpg'); 
+min-height: 95vh;
+background-size: cover;
+color: #ffffff;
+
+}
+
+
+.content{
+    justify-content: center;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: 20%;
+}
+
+h1{
+    font-family: 'Lilita One', cursive;
+    font-size: 3rem;
+    letter-spacing: 2px;
+
+}
+
+.content p{
+    width: 60%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-hero{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.windows{
+    padding: 15px;
+    border-radius: 30px;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.browser{
+    padding: 15px;
+    border-radius: 30px;
+    margin-bottom: 10px;
+    border: none;
+    background-color: #23272A;
+    color: #ffffff;
+}

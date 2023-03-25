@@ -1,0 +1,26 @@
+/*  */
+
+.left{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+} 
+
+.right{
+    display: flex;
+    float: right;
+    flex-direction: column;
+    width: 50%;
+    margin-right: 20%;
+    padding: 0;  
+    margin-top: 50px;  
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.right p,h1{
+    text-align: left;
+}
