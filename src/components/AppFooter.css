@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 
-
 .AppFooter{
     display: flex;
     justify-content: space-around;
@@ -24,7 +23,6 @@
 }
 
 .foot-icons{
-    /* letter-spacing: 10px; */
     display: flex;
     justify-content: space-between;
   }

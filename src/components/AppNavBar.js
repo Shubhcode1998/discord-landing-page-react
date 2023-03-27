@@ -10,7 +10,7 @@ function AppNavBar() {
     
     <Navbar collapseOnSelect expand="lg" bg="dark" variant="dark">
     <Container>
-      <Navbar.Brand Link to="#home"><SiDiscord /> Discord</Navbar.Brand>
+      <Navbar.Brand Link to="#home"><SiDiscord /> <span className='headinglogo'>Discord</span></Navbar.Brand>
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="me-auto">
