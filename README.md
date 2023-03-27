@@ -1,4 +1,4 @@
-# Landing Page of Discord 2023 March
+# Landing Page of Discord - March 2023 
 
 This project was made with re-usable react components, the landing page is responsive for different screen sizes, it consists of navbar, hero section, and footer section.
 
