@@ -1,21 +1,8 @@
 import React from 'react';
 import './Common.css';
-import imgfirst from '../Images/img-first.svg';
 
 function Common(props) {
   return (
-    // <div className='Common'>
-    //     {/* <div className='left'> */}
-    //     <img src={imgfirst} alt="imgfirst" width="100%" height="auto"/>
-    //     {/* </div> */}
-
-    //     <div className='right'>
-    //     <h1>Create an invite-only place where you belong</h1>
-    //     <p>Discord servers are organized into topic-based channels where you can collaborate, share, and just talk about your day without clogging up a group chat.</p>
-    //     </div>
-
-    // </div>
-
     <div class="container-fluid">
 
     <div class="row">
@@ -35,6 +22,7 @@ function Common(props) {
      </div>
      </div>
      </div>
+     <br></br>
      </div>
   )
 }

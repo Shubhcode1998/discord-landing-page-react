@@ -21,6 +21,6 @@
     overflow: hidden;
 }
 
-.right p,h1{
+.right h1, p{
     text-align: left;
 }

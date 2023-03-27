@@ -1,0 +1,23 @@
+.Chillin{
+    display: flex;
+    flex-direction: column;
+    background-color: #F6F6F6;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.Chillin p{
+    width: 60%;
+}
+
+.btn-windows{
+    background-color: #5865F2;
+    color: #FFFFFF;
+    padding: 15px;
+    border-radius: 30px;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+}
