@@ -1,13 +1,15 @@
-import './App.css';
-import Common from './components/Common';
+import AppNavBar from './components/AppNavBar';
 import Hero from './components/Hero';
-import 'bootstrap/dist/css/bootstrap.min.css';
+import Common from './components/Common';
+import Commonleft from './components/Commonleft';
+import Chillin from './components/Chillin';
+import AppFooter from './components/AppFooter';
 import imgfirst from '../src/Images/img-first.svg';
 import imgthird from '../src/Images/img-third.svg';
 import imgsecond from '../src/Images/img-second.svg';
-import Chillin from './components/Chillin';
-import Commonleft from './components/Commonleft';
-import AppNavBar from './components/AppNavBar';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
+
 
 function App() {
   return (
@@ -37,6 +39,8 @@ function App() {
 
       <Chillin />
 
+      <AppFooter />
+      
     </div>
   );
 }

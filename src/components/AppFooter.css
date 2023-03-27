@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+
+
+.AppFooter{
+    display: flex;
+    justify-content: space-around;
+    background-color: #23272A;
+}
+
+.footer-content{
+  display: flex;
+  text-align: left;
+  color: azure;
+  flex-direction: column;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.footer-content h2{
+  font-family: 'Lilita One', cursive; 
+  color: #5865F2;
+  letter-spacing: 2px;
+  font-size: 3rem;  
+}
+
+.foot-icons{
+    /* letter-spacing: 10px; */
+    display: flex;
+    justify-content: space-between;
+  }
+
+.footer-list{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+    margin-right: 20px;
+}
+
+.footList{
+    text-align: left;
+}
+
+.heading-li{
+    color: #2A44E5;
+}
+
+ul{
+    list-style: none;
+    color: aliceblue;
+}
+
+a{
+    color: #ffffff;
+    text-decoration: none;
+}

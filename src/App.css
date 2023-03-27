@@ -4,14 +4,3 @@
   padding: 0;
 }
 
-.open-disc{
-  border-radius: 20px;
-  padding-left: 10px;
-  padding-right: 10px;
-  border: none;
-}
-
-.navbar,
-.navbar-default {
-    background-image: linear-gradient(to bottom,#404EED 0,#404EED 100%) !important; 
-}
