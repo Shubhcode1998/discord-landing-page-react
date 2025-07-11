@@ -10,7 +10,7 @@ import imgsecond from '../src/Images/img-second.svg';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
-
+//new comment
 function App() {
   return (
     <div className="App">
